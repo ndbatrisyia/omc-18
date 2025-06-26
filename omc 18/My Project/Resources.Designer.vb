@@ -194,6 +194,16 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
+        Friend ReadOnly Property bubble_gum_pink_collage__pink__pinkaesthetic__vibes__cartoon() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("bubble gum pink collage #pink #pinkaesthetic #vibes #cartoon", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
         Friend ReadOnly Property Dazzling_Denim_Beaded_Bracelet_Set___Stretch_Bracelets___Tiny_Bead_Bracelets___Stackable___Layer___Small_Bead_Bracelet___Etsy_Canada() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("Dazzling Denim Beaded Bracelet Set _ Stretch Bracelets _ Tiny Bead Bracelets _ St"& _ 
@@ -208,6 +218,36 @@ Namespace My.Resources
         Friend ReadOnly Property de006e23_a79a_488e_be2f_b65b0a4c2cb7_removebg_preview() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("de006e23-a79a-488e-be2f-b65b0a4c2cb7-removebg-preview", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property download() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("download", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property download__3_() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("download (3)", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property download__4_() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("download (4)", resourceCulture)
                 Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property
@@ -309,6 +349,16 @@ Namespace My.Resources
             Get
                 Dim obj As Object = ResourceManager.GetObject("Star_In_Black_Of_Five_Points_Shape_free_icons_designed_by_Freepik-removebg-previe"& _ 
                         "w", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property summer_gingham_wallpaper_desktop() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("summer gingham wallpaper desktop", resourceCulture)
                 Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property
